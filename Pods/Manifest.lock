@@ -1,0 +1,16 @@
+PODS:
+  - RATreeView (2.1.2)
+
+DEPENDENCIES:
+  - RATreeView (~> 2.1.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RATreeView
+
+SPEC CHECKSUMS:
+  RATreeView: 380cde0090cfde21dc6ac29137f49d3b768fdd28
+
+PODFILE CHECKSUM: bb580e1cf10143adc1a48146b0211ae3ef8b8c3f
+
+COCOAPODS: 1.5.3
